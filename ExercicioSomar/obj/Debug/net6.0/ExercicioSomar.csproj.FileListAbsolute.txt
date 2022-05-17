@@ -1,0 +1,15 @@
+C:\Users\victor\source\repos\ExercicioSomar\obj\Debug\net6.0\ExercicioSomar.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\ExercicioSomar\obj\Debug\net6.0\ExercicioSomar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\ExercicioSomar\obj\Debug\net6.0\ExercicioSomar.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\ExercicioSomar\obj\Debug\net6.0\ExercicioSomar.AssemblyInfo.cs
+C:\Users\victor\source\repos\ExercicioSomar\obj\Debug\net6.0\ExercicioSomar.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\ExercicioSomar\bin\Debug\net6.0\ExercicioSomar.exe
+C:\Users\victor\source\repos\ExercicioSomar\bin\Debug\net6.0\ExercicioSomar.deps.json
+C:\Users\victor\source\repos\ExercicioSomar\bin\Debug\net6.0\ExercicioSomar.runtimeconfig.json
+C:\Users\victor\source\repos\ExercicioSomar\bin\Debug\net6.0\ExercicioSomar.dll
+C:\Users\victor\source\repos\ExercicioSomar\bin\Debug\net6.0\ExercicioSomar.pdb
+C:\Users\victor\source\repos\ExercicioSomar\obj\Debug\net6.0\ExercicioSomar.dll
+C:\Users\victor\source\repos\ExercicioSomar\obj\Debug\net6.0\refint\ExercicioSomar.dll
+C:\Users\victor\source\repos\ExercicioSomar\obj\Debug\net6.0\ExercicioSomar.pdb
+C:\Users\victor\source\repos\ExercicioSomar\obj\Debug\net6.0\ExercicioSomar.genruntimeconfig.cache
+C:\Users\victor\source\repos\ExercicioSomar\obj\Debug\net6.0\ref\ExercicioSomar.dll
